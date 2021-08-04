@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá devs 👋
 
-<!--
-**souzabrenda/souzabrenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Violoncelista desde pequena, agora descobrindo a paixão por codar! Estudando a famosa tríade da web: HTML, CSS e JS, aprimorando-me em busca do primeiro job como Front-End.
 
-Here are some ideas to get you started:
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left">
+  <a href="#mailto:souzabrenda.cello@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/brenda-souza-231792210/" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>
