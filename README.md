@@ -1,6 +1,8 @@
-### Olá devs 👋
+Estudando em foco ReactJS e Typescript, buscando a primeira oportunidade como Dev Frontend
 
-Violoncelista desde pequena, agora descobrindo a paixão por codar! Estudando ReactJS, aprimorando-me em busca do primeiro job como Front-End.
+//Violoncelista desde pequena e escritora de alma :)
+
+
 
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
